@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Rihazul Islam 
+I am currently an undergrad student at Concordia University in Montreal and I am studying computer engineering. 
 
 <!--
 **Rihazul/Rihazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
