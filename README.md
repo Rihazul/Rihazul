@@ -8,6 +8,6 @@ I am currently an undergrad student at Concordia University in Montreal and I am
 - 📫 How to reach me: https://www.linkedin.com/in/rihazul-islam/
 - ⚡ Fun fact: I am a motivated guy who is looking for innovative projects with amazing team 
 
-![image](https://github.com/Rihazul/Rihazul/assets/99052898/a4437594-50ce-402c-96d6-0bda4294b356)
+![GIF](https://github.com/Rihazul/Rihazul/assets/99052898/a4437594-50ce-402c-96d6-0bda4294b356)
 
 
