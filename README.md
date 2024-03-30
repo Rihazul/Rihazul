@@ -26,6 +26,6 @@ I am currently an undergrad student at Concordia University in Montreal and I am
 
 
 
-![flatage](https://github.com/Rihazul/Rihazul/assets/99052898/e90f495c-badf-451e-8f04-16aa72b0bbc2)     ![oxidi](https://github.com/Rihazul/Rihazul/assets/99052898/73c61bf8-f454-4487-b7fe-cd3ca019a0d8)
+![flatage](https://github.com/Rihazul/Rihazul/assets/99052898/e90f495c-badf-451e-8f04-16aa72b0bbc2)    
 
 
