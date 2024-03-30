@@ -28,6 +28,5 @@ I am currently an undergrad student at Concordia University in Montreal and I am
 
 ![](https://github.com/Rihazul/Rihazul/assets/99052898/e90f495c-badf-451e-8f04-16aa72b0bbc2)    
 
-![](https://tenor.com/view/hacker-reality-colored-keyboard-hacking-typing-gif-17405107)
 
 
