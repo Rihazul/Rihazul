@@ -1,3 +1,5 @@
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/Rihazul/Rihazul/assets/99052898/fa131b6d-634f-49a0-b522-a33621a7549f)
+
 ### Hi there 👋 My name is Rihazul Islam 
 I am currently an undergrad student at Concordia University in Montreal and I am studying computer engineering. 
 
