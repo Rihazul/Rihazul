@@ -4,7 +4,7 @@
 I am currently an undergrad student at Concordia University in Montreal and I am studying computer engineering. 
 
 # 💫 About Me:
-- 🔭 I’m currently working on robowars. <br>- 🌱 I’m currently learning artificial intelligence and hardware verification<br>- 👯 I’m looking to collaborate on capstone projects, interesting competitions or any engagements that will give me positive insights.<br>- 💬 Ask me about anything you are interested.<br>- 📫 How to reach me: https://www.linkedin.com/in/rihazul-islam/<br>- ⚡ Fun fact: I am a motivated guy who is looking for innovative projects with amazing team<br>
+- 🔭 I’m currently working on my capstone project. <br>- 🌱 I’m currently learning cryptography and databases. <br>- 👯 I’m looking to collaborate on capstone projects, interesting competitions or any engagements that will give me positive insights.<br>- 💬 Ask me about anything you are interested.<br>- 📫 How to reach me: https://www.linkedin.com/in/rihazul-islam/<br>- ⚡ Fun fact: I am a motivated guy who is looking for innovative projects with amazing team<br>
 
 
 ## 🌐 Socials:
