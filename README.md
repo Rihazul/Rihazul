@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rihazul-islam/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rihazul%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rihazul%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://www.instagram.com/rihazul_07/">
-    <img src="https://img.shields.io/badge/Instagram-rihazul__07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-rihazul__07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </p>
 
@@ -82,15 +82,24 @@ I enjoy building projects that connect software with real-world systems, from ba
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rihazul&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rihazul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="Rihazul's GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rihazul&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Rihazul&theme=tokyonight&hide_border=true" 
+    alt="Rihazul's GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rihazul&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rihazul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Rihazul's Top Languages" 
+  />
 </p>
 
 ---
@@ -101,14 +110,10 @@ I am always open to discussing software engineering, robotics, AI, automation, t
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rihazul-islam/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://github.com/Rihazul/Rihazul/assets/99052898/e90f495c-badf-451e-8f04-16aa72b0bbc2" alt="Footer Image" width="100%" />
 </p>
-  
-
-
-
