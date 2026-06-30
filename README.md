@@ -1,34 +1,114 @@
-![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/Rihazul/Rihazul/assets/99052898/fa131b6d-634f-49a0-b522-a33621a7549f)
+<p align="center">
+  <img src="https://github.com/Rihazul/Rihazul/assets/99052898/fa131b6d-634f-49a0-b522-a33621a7549f" alt="Profile Banner" width="100%" />
+</p>
 
-### Hi there 👋 My name is Rihazul Islam 
-I am currently an undergrad student at Concordia University in Montreal and I am studying computer engineering. 
+<h1 align="center">Hi, I'm Rihazul Islam 👋</h1>
 
-# 💫 About Me:
-- 🔭 I’m currently working on my capstone project. <br>- 🌱 I’m currently learning cryptography and databases. <br>- 👯 I’m looking to collaborate on capstone projects, interesting competitions or any engagements that will give me positive insights.<br>- 💬 Ask me about anything you are interested.<br>- 📫 How to reach me: https://www.linkedin.com/in/rihazul-islam/<br>- ⚡ Fun fact: I am a motivated guy who is looking for innovative projects with amazing team<br>
+<p align="center">
+  Computer Engineering Graduate | Software Developer | Robotics & AI Enthusiast
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rihazul_07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rihazul-islam/) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rihazul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rihazul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rihazul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rihazul-islam/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rihazul%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rihazul_07/">
+    <img src="https://img.shields.io/badge/Instagram-rihazul__07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rihazul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
 
+I am a Computer Engineering graduate from Concordia University in Montreal with a strong interest in software development, robotics, embedded systems, artificial intelligence, and practical problem-solving.
 
+I enjoy building projects that connect software with real-world systems, from backend tools and automation to robotics, computer vision, and hardware/software integration.
 
+* Currently improving my skills in software engineering, robotics, AI, and backend development.
+* Interested in projects involving automation, intelligent systems, embedded software, and developer tools.
+* Open to collaborating on technical projects, competitions, hackathons, and innovative ideas.
+* Always looking to learn, build, and contribute to meaningful engineering work.
 
-![](https://github.com/Rihazul/Rihazul/assets/99052898/e90f495c-badf-451e-8f04-16aa72b0bbc2)    
+---
+
+## Technical Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### Software & Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase\&logoColor=white)
+
+### Data, AI & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge\&logo=matplotlib\&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+
+### Embedded, Robotics & Tools
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## Featured Areas of Interest
+
+* Robotics and automation systems
+* Backend development and APIs
+* Embedded systems and hardware/software integration
+* Computer vision and AI-powered applications
+* Databases, system design, and software architecture
+* Developer productivity tools and AI-assisted development
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rihazul&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rihazul&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rihazul&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## Let's Connect
+
+I am always open to discussing software engineering, robotics, AI, automation, technical projects, and opportunities to collaborate.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rihazul-islam/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Rihazul/Rihazul/assets/99052898/e90f495c-badf-451e-8f04-16aa72b0bbc2" alt="Footer Image" width="100%" />
+</p>
+  
 
 
 
